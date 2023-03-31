@@ -1,0 +1,162 @@
+.nav-avatar {
+    width: 40px;
+    height: 100%;
+    border-radius: 900px;
+    margin-left: 15px
+}
+
+.avatar {
+    width: 85px;
+    margin-bottom: 13px;
+}
+
+.pub_image {
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    margin-left: 15px;
+    float: left;
+    margin-right: 15px;
+    margin-left: 0px;
+}
+
+.text_surname {
+    margin-top: 6px;
+    font-weight: bold;
+}
+
+.text_surname a {
+    color: #444;
+    text-decoration: none;
+}
+
+.text_nick {
+    color: grey;
+}
+
+.alerta-coment {
+    display: block;
+}
+
+.card {
+    margin-bottom: 25px;
+}
+
+.image-container {
+    width: 100%;
+    max-height: 400px;
+    overflow: hidden;
+}
+
+.image-detail {
+    max-height: 500px;
+}
+
+.image-container img {
+    width: 100%;
+    object-position: center center;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.likes {
+    float: left;
+    margin-right: 15px;
+
+}
+
+.likes img {
+    width: 20px;
+    padding-top: 2px;
+    cursor: pointer;
+}
+
+.count-likes {
+    color: #808080;
+    font-size: 13px;
+}
+
+.description {
+    padding: 15px;
+}
+
+/* Perfil de usuario */
+
+.data-profile {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.container-profile {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+.profile-avatar {
+    height: 100%;
+}
+
+.user-info {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.user-info h1 {
+    color: #808080;
+}
+
+.user-info h2 {
+    color: #808080;
+}
+
+/* Actualizar / eliminar imagen */
+
+.actions {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.edit-img {
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 13px;
+}
+
+/* Buscador de usuarios */
+
+.data-gente {
+    height: 100px;
+    display: flex;
+}
+
+.container-gente {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+
+.user-info-gente {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.nick-gente {
+    font-size: 20px;
+}
+
+.name-gente {
+    font-size: 20px;
+}
+
+.go-perfil {
+    margin-left: 500px
+}
+
+
+
